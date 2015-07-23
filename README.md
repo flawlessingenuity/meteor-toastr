@@ -1,4 +1,4 @@
-# Meteor Wrapper for the Javascript Library #
+# Meteor Wrapper for Toastr #
 
 ### Installation ###
 
